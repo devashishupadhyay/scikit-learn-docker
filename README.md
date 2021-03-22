@@ -2,14 +2,18 @@
 [![Docker](https://img.shields.io/docker/pulls/devashishupadhyay/scikit-learn-docker)](https://hub.docker.com/r/devashishupadhyay/scikit-learn-docker)
 
 
-This image provides a Docker image with following packages installed -
+This image provides a Docker image with following packages pre-installed -
 - Scikit-learn
 - Pandas
 - Numpy
-- MatplotLib
+- Nltk
+- Xgboost
+- Keras
 - Scipy
-- Seaborn
 - Statsmodels
+- MatplotLib
+- Seaborn
+
 
 ## Installation
 ```
