@@ -1,5 +1,6 @@
 # Docker Scikit Learn for Easy Machine Learning
 [![Docker](https://img.shields.io/docker/pulls/devashishupadhyay/scikit-learn-docker)](https://hub.docker.com/r/devashishupadhyay/scikit-learn-docker)
+[![Docker](https://img.shields.io/docker/image-size/devashishupadhyay/scikit-learn-docker)](https://hub.docker.com/r/devashishupadhyay/scikit-learn-docker)
 
 
 This image provides a Docker image with following packages pre-installed -
